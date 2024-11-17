@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "XzcKYprKG65E8ew1PuaEH0oamyiBOeFgQWVzlYh4QT4aLlPsEmVn/ZTsb3Hnqu6/R+/M3dSxf5JuqufxOEHhFw==",
+  "success": true,
+  "projectFilePath": "/Users/fermayilhesenov/Projects/Redis_Caching_InMemory_Distributed_Projects/InMemory.Caching/InMemory.Caching.csproj",
+  "expectedPackageFiles": [
+    "/Users/fermayilhesenov/.nuget/packages/microsoft.aspnetcore.openapi/7.0.20/microsoft.aspnetcore.openapi.7.0.20.nupkg.sha512",
+    "/Users/fermayilhesenov/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/fermayilhesenov/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/fermayilhesenov/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/fermayilhesenov/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/fermayilhesenov/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/fermayilhesenov/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
